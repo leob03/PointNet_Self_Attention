@@ -8,4 +8,6 @@ This repository is an implementation of a final course project that studied the 
 Some visual results of the Instance Segmentation algorithm :
 <p align="center">
   <img src="./gif/results_PNA.gif" alt="Image Description" width="400" height="300">
+  <br>
+  Some visual results of the Instance Segmentation algorithm :
 </p>
