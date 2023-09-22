@@ -24,7 +24,7 @@ This repository is an implementation of a final course project that studied the 
 
 # Objective
 
-***While processing Point Clouds with machine learning methods is inherently challenging due to point cloud’s irregularities and complexities, PointNet architecture has been developed to efficiently process point clouds by using multi-layer perceptrons (MLPs) and symmetric function. The architecture can be easily adapted to perform 3D recognition tasks such as classification, part segmentation, and semantic parsing, and achieve state-of-the-art performance. However, PointNet does not capture local structures induced by the metric space because of only applying elementary binary symmetric or aggregation operations, treating each points separately. This work aims to address this limitation by incorporating self-attention mechanism with positional encoding to capture local features. The extended architecture is able to achieve 3 percent increase in accuracy at 3D classification task, and detailed analysis of the architecture is provided.**
+**While processing Point Clouds with machine learning methods is inherently challenging due to point cloud’s irregularities and complexities, PointNet architecture has been developed to efficiently process point clouds by using multi-layer perceptrons (MLPs) and symmetric function. The architecture can be easily adapted to perform 3D recognition tasks such as classification, part segmentation, and semantic parsing, and achieve state-of-the-art performance. However, PointNet does not capture local structures induced by the metric space because of only applying elementary binary symmetric or aggregation operations, treating each points separately. This work aims to address this limitation by incorporating self-attention mechanism with positional encoding to capture local features. The extended architecture is able to achieve 3 percent increase in accuracy at 3D classification task, and detailed analysis of the architecture is provided.**
 
 # Concepts
 
@@ -44,4 +44,5 @@ Most of the concepts are described quite in depth in the paper but here is a qui
 I only tested this code with Ubuntu 20.04, but I tried to make it as generic as possible (e.g. use of **os** module for file system interactions etc. So it might work on Windows and Mac relatively easily.)
 
 # Results
+
 
