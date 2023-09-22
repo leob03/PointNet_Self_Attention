@@ -45,4 +45,8 @@ I only tested this code with Ubuntu 20.04, but I tried to make it as generic as 
 
 # Results
 
-
+<p align="center">
+  Comparison of the two models on Shape Classification:
+  <br>
+  <img src="./confusion_matrices/final_results.png" alt="Image Description" width="600" height="300">
+</p>
