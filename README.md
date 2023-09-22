@@ -1,5 +1,5 @@
 # PointNet with Self-Attention residual layers
-This repository is an implementation of a final course project that studied the most influential neural architecture for Point Cloud processing called PointNet with the ambition to improve its accuracy using Self-Attention Layers from the famous Transformer architecture. A report with explanations for this study can be found [here](https://leobringer.files.wordpress.com/2023/09/written-report.pdf).
+This repository is an implementation of a final course project that studied the most influential neural architecture for Point Cloud processing called PointNet with the ambition to improve its accuracy using Self-Attention Layers from the famous Transformer architecture. A report with explanations for this study can be found [here](https://leobringer.files.wordpress.com/2023/09/ptae.pdf).
 
 
 <div align="center">
